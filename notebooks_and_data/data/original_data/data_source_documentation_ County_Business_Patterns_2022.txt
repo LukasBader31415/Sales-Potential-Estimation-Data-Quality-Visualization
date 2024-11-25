@@ -1,29 +1,27 @@
-Datenquelle: County Business Patterns: 2021
+Datenquelle: County Business Patterns: 2022
 
 1. Allgemeine Informationen zur Datenquelle
 
-    Titel: County Business Patterns: 2021
+    Titel: County Business Patterns: 2022
     Herausgeber/Organisation: United States Census Bureau
     Autoren: Keine spezifischen Autoren angegeben
 
 2. URL und Zugriffsdatum
 
-    URL der Datenquelle: 	https://www.census.gov/data/datasets/2021/econ/cbp/2021-cbp.html
-							https://www2.census.gov/programs-surveys/cbp/datasets/2021/cbp21co.zip
-							cbp21co.txt
+    URL der Datenquelle: 	
+	https://www.census.gov/data/datasets/2022/econ/cbp/2022-cbp.html
+	https://www2.census.gov/programs-surveys/cbp/datasets/2022/cbp22co.zip
+	cbp22co.txt
+
     Zugriffsdatum: 18. Oktober 2024
 
 3. Lizenzbedingungen
 
-    The Census Bureau has reviewed this data product to ensure appropriate access, use, 
-	and disclosure avoidance protection of the confidential source data (Project No. 7503949, 
-	Disclosure Review Board (DRB) approval number: CBDRB-FY23-0121).
+    The Census Bureau has reviewed this data product to ensure appropriate access, use, and disclosure avoidance protection of the confidential source data (Project No. 7503949, Disclosure Review Board (DRB) approval number: CBDRB-FY23-0121).
 
 4. Datenbeschreibung
 
-    County Business Patterns (CBP) datasets are subsets of CBP data in comma-separated value (CSV) format for downloading. 
-	This series includes the number of establishments, employment during the week of March 12, first quarter payroll, and annual payroll. 
-	Corresponding record layouts and reference files are available.
+	County Business Patterns (CBP) datasets are subsets of CBP data in comma-separated value (CSV) format for downloading. This series includes the number of establishments, employment during the week of March 12, first quarter payroll, and annual 		payroll. Corresponding record layouts and reference files are available.
 
 5. Datenformat und -struktur
 
@@ -97,4 +95,4 @@ Datenquelle: County Business Patterns: 2021
 
 6. Citation of the datasource:
     Recommended citation:
-    United States Census Bureau. (2023). County Business Patterns: 2021. Retrieved from https://www.census.gov/data/datasets/2021/econ/cbp/2021-cbp.html on October 18, 2024.
+    United States Census Bureau. (2023). County Business Patterns: 2022. Retrieved from https://www.census.gov/data/datasets/2022/econ/cbp/2022-cbp.html on October 18, 2024.
