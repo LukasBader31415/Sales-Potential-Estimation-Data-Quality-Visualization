@@ -64,4 +64,10 @@ Due to anonymization in the enrichment process, the key features were manually s
 ### 4. `t-sne_analysis_ipynb/`
 This notebook analyzes the U.S. market by applying t-SNE for dimensionality reduction and DBSCAN for clustering across 3,233 counties. The resulting clusters are optimized based on silhouette scores and analyzed to identify key features. The notebook then visualizes the cluster characteristics and regional distributions. A Random Forest model is used to identify the most important features driving cluster assignments. The results highlight significant patterns and insights related to the U.S. market and its regional variations.
 
+![grafik](https://github.com/user-attachments/assets/dd4acd34-627e-41b6-98f0-811a07670ba1)
+
+![grafik](https://github.com/user-attachments/assets/b2d8fa7c-f268-4bbe-bf1f-e533fde59038)
+
+
+
 
