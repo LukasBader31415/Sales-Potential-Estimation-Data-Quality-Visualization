@@ -14,23 +14,23 @@ for specific products across the country.
 ├── notebooks_and_data/  
 │   ├── data/  
 │   │   ├── original_data/  
-│   │   │   ├── pkl/  # Originaldaten im Pickle-Format  
-│   │   │   ├── txt/  # Originaldaten im Textformat  
-│   │   │   └── xlsx/  # Originaldaten im Excel-Format  
+│   │   │   ├── pkl/  
+│   │   │   ├── txt/  
+│   │   │   └── xlsx/  
 │   │   ├── processed_data/  
-│   │   │   ├── batch_ids/  # Batch-IDs für die Verarbeitung  
-│   │   │   ├── json/  # Verarbeitete Daten im JSON-Format  
-│   │   │   ├── melted_data/  # Umgeformte (melted) Daten  
-│   │   │   └── pkl/  # Verarbeitete Daten im Pickle-Format  
+│   │   │   ├── batch_ids/  
+│   │   │   ├── json/  
+│   │   │   ├── melted_data/  
+│   │   │   └── pkl/  
 │   ├── my_functions/  
-│   │   ├── functions_data_enrichment.py  # Funktionen zur Datenanreicherung  
-│   │   ├── functions_data_linking.py  # Funktionen zur Datenverknüpfung  
-│   │   ├── functions_feature_selection.py  # Funktionen zur Merkmalsauswahl  
-│   │   └── functions_tsne_analysis.py  # Funktionen zur t-SNE-Analyse  
-│   ├── data_linking_ipynb/  # Jupyter Notebook zur Datenverknüpfung  
-│   ├── data_enrichment_ipynb/  # Jupyter Notebook zur Datenanreicherung  
-│   ├── feature_selection_ipynb/  # Jupyter Notebook zur Merkmalsauswahl  
-│   └── t-sne_analysis_ipynb/  # Jupyter Notebook zur t-SNE-Analyse  
+│   │   ├── functions_data_enrichment.py  
+│   │   ├── functions_data_linking.py  
+│   │   ├── functions_feature_selection.py  
+│   │   └── functions_tsne_analysis.py  
+│   ├── data_linking_ipynb/  
+│   ├── data_enrichment_ipynb/  
+│   ├── feature_selection_ipynb/  
+│   └── t-sne_analysis_ipynb/  
 └── README.md
 
 
