@@ -11,26 +11,26 @@ for specific products across the country.
 
 # Sales-Potential-Estimation-Data-Quality-Visualization/
 
-notebooks_and_data/
-├── data/
-│   ├── original_data/
-│   │   ├── pkl/
-│   │   ├── txt/
-│   │   └── xlsx/
-│   ├── processed_data/
-│   │   ├── batch_ids/
-│   │   ├── json/
-│   │   ├── melted_data/
-│   │   └── pkl/
-├── my_functions/
-│   ├── functions_data_enrichment.py
-│   ├── functions_data_linking.py
-│   ├── functions_feature_selection.py
-│   └── functions_tsne_analysis.py
-├── data_linking_ipynb/
-├── data_enrichment_ipynb/
-├── feature_selection_ipynb/
-└── t-sne_analysis_ipynb/
+├── notebooks_and_data/  
+│   ├── data/  
+│   │   ├── original_data/  
+│   │   │   ├── pkl/  
+│   │   │   ├── txt/  
+│   │   │   └── xlsx/  
+│   │   ├── processed_data/  
+│   │   │   ├── batch_ids/  
+│   │   │   ├── json/  
+│   │   │   ├── melted_data/  
+│   │   │   └── pkl/  
+│   ├── my_functions/  
+│   │   ├── functions_data_enrichment.py  
+│   │   ├── functions_data_linking.py  
+│   │   ├── functions_feature_selection.py  
+│   │   └── functions_tsne_analysis.py  
+│   ├── data_linking_ipynb/  
+│   ├── data_enrichment_ipynb/  
+│   ├── feature_selection_ipynb/  
+│   └── t-sne_analysis_ipynb/  
 └── README.md
 
 ## Notebooks (It makes sense to run the notebooks in the mentioned order, as they build on each other)
