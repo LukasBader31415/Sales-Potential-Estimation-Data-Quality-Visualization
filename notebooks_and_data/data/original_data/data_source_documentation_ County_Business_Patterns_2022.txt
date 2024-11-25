@@ -90,7 +90,7 @@ Datenquelle: County Business Patterns: 2022
 5. Technical Documentation: https://www.census.gov/programs-surveys/cbp/technical-documentation.html 
 
 	5.1 Methodology: https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html
-    5.2 Reference Files: https://www.census.gov/programs-surveys/cbp/technical-documentation/reference.html
+    	5.2 Reference Files: https://www.census.gov/programs-surveys/cbp/technical-documentation/reference.html
 
 
 6. Citation of the datasource:
