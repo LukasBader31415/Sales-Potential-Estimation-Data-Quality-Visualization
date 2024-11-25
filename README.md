@@ -44,6 +44,8 @@ Due to the data size, the two datasets need to be manually downloaded and added 
 
 The occupation_master.xlsx file must be manually adjusted to align with your specific business case and domain field. It is essential to prioritize occupations based on relevance to your industry and the data you are working with. This ensures that the dataset accurately reflects the most important occupations for your analysis, facilitating a more targeted and meaningful application of labor market features.
 
+The diagram shows the data linking process: 
+
 ![grafik](https://github.com/user-attachments/assets/cc4fb0f0-720d-433e-b8c0-39c1a7af8848)
 
 
