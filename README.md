@@ -6,7 +6,7 @@ It prioritizes features, analyzes clusters of U.S. counties, and identifies pote
 for specific products across the country.
 
 
-## Projectstructur
+## Project structur
 ---------------
 
 # Sales-Potential-Estimation-Data-Quality-Visualization/
