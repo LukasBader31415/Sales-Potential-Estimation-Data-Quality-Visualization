@@ -1,5 +1,4 @@
 # Sales-Potential-Estimation-Data-Quality-Visualization
-=====================================================
 
 This project processes economic indicators from two U.S. sources, enriching them with expert knowledge. 
 It prioritizes features, analyzes clusters of U.S. counties, and identifies potential sales regions 
@@ -7,9 +6,8 @@ for specific products across the country.
 
 
 ## Project structur
----------------
 
-# Sales-Potential-Estimation-Data-Quality-Visualization/
+Sales-Potential-Estimation-Data-Quality-Visualization/
 
 ├── notebooks_and_data/  
 │   ├── data/  
